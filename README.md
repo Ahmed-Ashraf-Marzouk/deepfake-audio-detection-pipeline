@@ -149,7 +149,3 @@ Ignore for now, or use `scikit-learn==1.2.2` to match the model's original versi
 * [Ollama](https://ollama.com) for LLaMA model inference.
 * [SetFit](https://github.com/huggingface/setfit) for zero-shot classification.
 * Hate speech detection model: [akhooli/setfit\_ar\_hs](https://huggingface.co/akhooli/setfit_ar_hs)
-
----
-
-Let me know if you'd like the README in Markdown (`.md`) format. I can generate it as a downloadable file for you.
