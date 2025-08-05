@@ -1,7 +1,3 @@
-Here’s a **professional, detailed README** file for your `Arabic Text Filter Pipeline`, including all necessary setup, usage, and troubleshooting guidance.
-
----
-
 # Arabic Text Filter Pipeline
 
 This Python pipeline filters Arabic text based on:
